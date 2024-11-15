@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'redbit/simpleshop-wp-plugin',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '3e8889170d7fd08d5a5bfedb688a049066e44f56',
+        'pretty_version' => '2.12.0.x-dev',
+        'version' => '2.12.0.9999999-dev',
+        'reference' => '22aadf4754315b9b66ce46030d3610e1b693b8b0',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'redbit/simpleshop-wp-plugin' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '3e8889170d7fd08d5a5bfedb688a049066e44f56',
+            'pretty_version' => '2.12.0.x-dev',
+            'version' => '2.12.0.9999999-dev',
+            'reference' => '22aadf4754315b9b66ce46030d3610e1b693b8b0',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -56,9 +56,9 @@
             'dev_requirement' => false,
         ),
         'symfony/stopwatch' => array(
-            'pretty_version' => 'v5.4.40',
-            'version' => '5.4.40.0',
-            'reference' => '0e9daf3b7c805c747638b2cc48f1649e594f9625',
+            'pretty_version' => 'v5.4.45',
+            'version' => '5.4.45.0',
+            'reference' => 'fb2c199cf302eb207f8c23e7ee174c1c31a5c004',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/stopwatch',
             'aliases' => array(),
