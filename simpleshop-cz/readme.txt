@@ -4,7 +4,7 @@ Tags: simpleshop, membership, member, access control, selling form
 Requires at least: 5.3
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 2.12.2
+Stable tag: 2.13.0
 License: MIT
 License URI: https://github.com/redbitcz/simpleshop-wp-plugin/blob/master/LICENSE
 
