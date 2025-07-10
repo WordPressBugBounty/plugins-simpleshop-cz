@@ -10,8 +10,8 @@
  * Plugin Name: SimpleShop
  * Plugin URI: https://podpora.redbit.cz/stitek/wp-plugin/
  * Description: The SimpleShop WP plugin easily connects your WordPress website with a SimpleShop account and allows you to restrict the access to the web content only for members.
- * Version: 2.13.0
- * Requires at least: 5.3
+ * Version: 2.14.1
+ * Requires at least: 6.6
  * Requires PHP: 7.4
  * Author:  Redbit s.r.o.
  * Author URI: https://www.redbit.cz
@@ -24,7 +24,7 @@ namespace Redbit\SimpleShop\WpPlugin;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-define( 'SIMPLESHOP_PLUGIN_VERSION', 'v2.13.0' );
+define( 'SIMPLESHOP_PLUGIN_VERSION', 'v2.14.1' );
 define( 'SIMPLESHOP_PREFIX', '_ssc_' );
 
 /** Start plugin */

@@ -221,7 +221,6 @@ class Admin {
 		foreach ( $data->cap as $item ) {
 			$role->add_cap( $item );
 		}
-
 	}
 
 	/**
