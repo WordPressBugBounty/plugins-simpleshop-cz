@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'redbit/simpleshop-wp-plugin',
-        'pretty_version' => '2.14.1.x-dev',
-        'version' => '2.14.1.9999999-dev',
-        'reference' => 'effb1bb6ec4e2c32ee8febb5adb592734ff6ac1a',
+        'pretty_version' => 'v2.15.0',
+        'version' => '2.15.0.0',
+        'reference' => 'c85ac466971a1eabdaaabca4885e4087ba90bbb8',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'redbit/simpleshop-wp-plugin' => array(
-            'pretty_version' => '2.14.1.x-dev',
-            'version' => '2.14.1.9999999-dev',
-            'reference' => 'effb1bb6ec4e2c32ee8febb5adb592734ff6ac1a',
+            'pretty_version' => 'v2.15.0',
+            'version' => '2.15.0.0',
+            'reference' => 'c85ac466971a1eabdaaabca4885e4087ba90bbb8',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
