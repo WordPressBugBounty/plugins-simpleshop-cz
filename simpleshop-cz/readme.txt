@@ -2,9 +2,9 @@
 Contributors: redbitcz, simpleshopcz, vasikgreif, vitvavra
 Tags: simpleshop, membership, member, access control, selling form
 Requires at least: 6.6
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 2.16.0
+Stable tag: 2.17.0
 License: MIT
 License URI: https://github.com/redbitcz/simpleshop-wp-plugin/blob/master/LICENSE
 
@@ -68,7 +68,7 @@ You can set a date for revealing the content by picking the date from the calend
 
 = Can the plugin automatically renew the membership? =
 
-Automatic renewal of membership is possible by using repeated payments in SimpleShop. For more information see the <a href="https://podpora.redbit.cz/navod/opakovane-platby-a-omezeni-clenstvi/">instructions for repeated payments</a> (Czech language only).
+Automatic renewal of membership is possible by using repeated payments in SimpleShop. For more information see the [instructions for repeated payments](https://podpora.redbit.cz/navod/opakovane-platby-a-omezeni-clenstvi/) (Czech language only).
 
 == Installation ==
 
