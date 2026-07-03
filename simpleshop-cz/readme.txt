@@ -4,7 +4,7 @@ Tags: simpleshop, membership, member, access control, selling form
 Requires at least: 6.6
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 2.17.0
+Stable tag: 2.17.1
 License: MIT
 License URI: https://github.com/redbitcz/simpleshop-wp-plugin/blob/master/LICENSE
 
@@ -42,11 +42,7 @@ The second area of use of the plugin is to insert a sales form created in the Si
 
 You can register for a SimpleShop account at: [https://app.simpleshop.cz/account/create/](https://app.simpleshop.cz/account/create/)
 
-The procedure of inserting a sales form into the website is explained in the following instructions (in Czech).
-
-[Inserting a sales form using the Gutenberg editor](https://podpora.redbit.cz/navod/wp-plugin-pro-wordpress-5/#vlozeni-prodejniho-formulare)
-
-[Inserting a sales form using the classic editor](https://podpora.redbit.cz/navod/simpleshop-wp-plugin-vkladani-prodejniho-formulare/)
+The procedure of inserting a sales form into the website is explained in the [following instructions (in Czech)](https://podpora.redbit.cz/navod/simpleshop-wp-plugin-vkladani-prodejniho-formulare/).
 
 == Frequently Asked Questions ==
 
